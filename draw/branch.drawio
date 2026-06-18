@@ -1,0 +1,528 @@
+<mxfile host="Electron" modified="2026-06-18T06:47:17.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Hni6R30g95bFa93jU8jL" version="24.1.0" type="device">
+  <diagram name="ページ1" id="CX5mHKgjMB9sOBlar57N">
+    <mxGraphModel dx="800" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zMeUsSQM0l0AWbH3j11--145" value="&lt;font face=&quot;Moralerspace Argon HW&quot; style=&quot;font-size: 25px;&quot;&gt;git branch feat/hoge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="40" y="370" width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zMeUsSQM0l0AWbH3j11--147" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 22px;&quot;&gt;後&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="345" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-60" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="175" y="173" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AUFQ-tkAiv3ymMybPrdv-60" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-62" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="AUFQ-tkAiv3ymMybPrdv-60" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-73" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="313" as="sourcePoint" />
+            <mxPoint x="190" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-78" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="165" y="232" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-80" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="235" y="173" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-81" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AUFQ-tkAiv3ymMybPrdv-80" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-82" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="AUFQ-tkAiv3ymMybPrdv-80" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-83" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-81" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="313" as="sourcePoint" />
+            <mxPoint x="250" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-84" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="225" y="232" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-85" value="init" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" parent="1" vertex="1">
+          <mxGeometry x="160" y="152" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-87" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="335" y="173" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="AUFQ-tkAiv3ymMybPrdv-87" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-89" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="AUFQ-tkAiv3ymMybPrdv-87" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-90" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-88" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="313" as="sourcePoint" />
+            <mxPoint x="350" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-92" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="163" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-93" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#9c9c9c&quot;&gt;add: hoge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" parent="1" vertex="1">
+          <mxGeometry x="220" y="152" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-81" target="AUFQ-tkAiv3ymMybPrdv-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-96" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;entryX=0.8;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-88" target="AUFQ-tkAiv3ymMybPrdv-92" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="203" as="sourcePoint" />
+            <mxPoint x="295" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-97" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;exitX=0.2;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-92" target="AUFQ-tkAiv3ymMybPrdv-81" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="173" as="sourcePoint" />
+            <mxPoint x="335" y="123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-98" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#9c9c9c&quot;&gt;feat: huga&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" parent="1" vertex="1">
+          <mxGeometry x="335" y="152" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-99" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Harano Aji Gothic&amp;quot;; background-color: initial;&quot;&gt;コミット履歴&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="112" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-103" value="main" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=5;size=21;position=0.22;position2=0.44;" parent="1" vertex="1">
+          <mxGeometry x="320" y="134" width="45" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=9.9;exitDy=32;exitPerimeter=0;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-104" target="AUFQ-tkAiv3ymMybPrdv-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-104" value="HEAD" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=10;size=12;position=0.22;position2=0.22;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="45" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=7.5;entryDy=0;entryPerimeter=0;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-111" target="XLcok-ERuKk7p1zRL_Q2-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-109" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-111" target="AUFQ-tkAiv3ymMybPrdv-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-111" target="AUFQ-tkAiv3ymMybPrdv-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-111" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="330" y="241" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-113" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="325" y="281" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-114" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="355" y="291" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-115" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="345" y="331" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-116" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="365" y="331" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-117" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="385" y="341" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-119" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;entryX=0;entryY=0;entryDx=5;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" source="AUFQ-tkAiv3ymMybPrdv-114" target="AUFQ-tkAiv3ymMybPrdv-115" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="351" as="sourcePoint" />
+            <mxPoint x="355" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-120" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0;entryY=0;entryDx=5;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" target="AUFQ-tkAiv3ymMybPrdv-116" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="311" as="sourcePoint" />
+            <mxPoint x="395" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-121" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" target="AUFQ-tkAiv3ymMybPrdv-117" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="311" as="sourcePoint" />
+            <mxPoint x="380" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUFQ-tkAiv3ymMybPrdv-122" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E6E6E6;dashed=1;dashPattern=1 4;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="351" as="sourcePoint" />
+            <mxPoint x="385" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="296" y="281" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="85" y="557" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XLcok-ERuKk7p1zRL_Q2-3">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="XLcok-ERuKk7p1zRL_Q2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="697" as="sourcePoint" />
+            <mxPoint x="100" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-7" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="616" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="145" y="557" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XLcok-ERuKk7p1zRL_Q2-8">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-10" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="XLcok-ERuKk7p1zRL_Q2-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="697" as="sourcePoint" />
+            <mxPoint x="160" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-12" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="616" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-13" value="init" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" vertex="1" parent="1">
+          <mxGeometry x="70" y="536" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="245" y="557" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XLcok-ERuKk7p1zRL_Q2-14">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-16" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="XLcok-ERuKk7p1zRL_Q2-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="697" as="sourcePoint" />
+            <mxPoint x="260" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-18" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="547" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-19" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#9c9c9c&quot;&gt;add: hoge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" vertex="1" parent="1">
+          <mxGeometry x="130" y="536" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-9" target="XLcok-ERuKk7p1zRL_Q2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-21" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;entryX=0.8;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-15" target="XLcok-ERuKk7p1zRL_Q2-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="587" as="sourcePoint" />
+            <mxPoint x="205" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;exitX=0.2;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-18" target="XLcok-ERuKk7p1zRL_Q2-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="557" as="sourcePoint" />
+            <mxPoint x="245" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-23" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#9c9c9c&quot;&gt;feat: huga&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Harano Aji Gothic&amp;quot;; background-color: initial;&quot;&gt;コミット履歴&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="496" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-25" value="main" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=5;size=21;position=0.22;position2=0.44;" vertex="1" parent="1">
+          <mxGeometry x="230" y="518" width="45" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=9.9;exitDy=32;exitPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-27" target="XLcok-ERuKk7p1zRL_Q2-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-27" value="HEAD" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=10;size=12;position=0.22;position2=0.22;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="424" width="45" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=7.5;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-31" target="XLcok-ERuKk7p1zRL_Q2-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="646" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-31" target="XLcok-ERuKk7p1zRL_Q2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-31" target="XLcok-ERuKk7p1zRL_Q2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-31" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="625" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-32" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="235" y="665" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-33" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="265" y="675" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-34" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="255" y="715" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-35" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="275" y="715" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-36" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="295" y="725" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;entryX=0;entryY=0;entryDx=5;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-33" target="XLcok-ERuKk7p1zRL_Q2-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="735" as="sourcePoint" />
+            <mxPoint x="265" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-38" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0;entryY=0;entryDx=5;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" target="XLcok-ERuKk7p1zRL_Q2-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="695" as="sourcePoint" />
+            <mxPoint x="305" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-39" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" target="XLcok-ERuKk7p1zRL_Q2-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="695" as="sourcePoint" />
+            <mxPoint x="290" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-40" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E6E6E6;dashed=1;dashPattern=1 4;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="735" as="sourcePoint" />
+            <mxPoint x="295" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-41" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="206" y="665" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-42" value="&lt;font face=&quot;Moralerspace Argon HW&quot; style=&quot;font-size: 25px;&quot;&gt;git switch -c feat/hoge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-43" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 22px;&quot;&gt;後&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="745" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="485" y="557" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XLcok-ERuKk7p1zRL_Q2-44">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="XLcok-ERuKk7p1zRL_Q2-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="697" as="sourcePoint" />
+            <mxPoint x="500" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-48" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="616" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="545" y="557" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XLcok-ERuKk7p1zRL_Q2-49">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-51" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="XLcok-ERuKk7p1zRL_Q2-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="697" as="sourcePoint" />
+            <mxPoint x="560" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-53" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="616" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-54" value="init" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" vertex="1" parent="1">
+          <mxGeometry x="470" y="536" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="645" y="557" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XLcok-ERuKk7p1zRL_Q2-55">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-57" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="XLcok-ERuKk7p1zRL_Q2-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="sourcePoint" />
+            <mxPoint x="24" y="9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="12" y="21" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="697" as="sourcePoint" />
+            <mxPoint x="660" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-59" value="&lt;font face=&quot;Harano Aji Gothic&quot; style=&quot;font-size: 14px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="547" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-60" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#9c9c9c&quot;&gt;add: hoge&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" vertex="1" parent="1">
+          <mxGeometry x="530" y="536" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-50" target="XLcok-ERuKk7p1zRL_Q2-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-62" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;entryX=0.8;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-56" target="XLcok-ERuKk7p1zRL_Q2-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="587" as="sourcePoint" />
+            <mxPoint x="605" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-63" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;exitX=0.2;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-59" target="XLcok-ERuKk7p1zRL_Q2-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="557" as="sourcePoint" />
+            <mxPoint x="645" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-64" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#9c9c9c&quot;&gt;feat: huga&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Harano Aji Gothic;" vertex="1" parent="1">
+          <mxGeometry x="595" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-65" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Harano Aji Gothic&amp;quot;; background-color: initial;&quot;&gt;コミット履歴&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="496" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-66" value="main" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=5;size=21;position=0.22;position2=0.44;" vertex="1" parent="1">
+          <mxGeometry x="630" y="518" width="45" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=9.9;exitDy=32;exitPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-68" target="XLcok-ERuKk7p1zRL_Q2-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-68" value="HEAD" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=10;size=12;position=0.22;position2=0.22;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="710" y="424" width="45" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=7.5;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-72" target="XLcok-ERuKk7p1zRL_Q2-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="646" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-72" target="XLcok-ERuKk7p1zRL_Q2-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-72" target="XLcok-ERuKk7p1zRL_Q2-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-72" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="640" y="625" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-73" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="635" y="665" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-74" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="665" y="675" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-75" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="655" y="715" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-76" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="675" y="715" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-77" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Harano Aji Gothic&quot;&gt;tree/&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="695" y="725" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;entryX=0;entryY=0;entryDx=5;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" source="XLcok-ERuKk7p1zRL_Q2-74" target="XLcok-ERuKk7p1zRL_Q2-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="735" as="sourcePoint" />
+            <mxPoint x="665" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-79" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0;entryY=0;entryDx=5;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" target="XLcok-ERuKk7p1zRL_Q2-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="695" as="sourcePoint" />
+            <mxPoint x="705" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-80" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1" target="XLcok-ERuKk7p1zRL_Q2-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="695" as="sourcePoint" />
+            <mxPoint x="690" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-81" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E6E6E6;dashed=1;dashPattern=1 4;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="735" as="sourcePoint" />
+            <mxPoint x="695" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-82" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=center;verticalAlign=middle;fontFamily=Harano Aji Gothic;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="606" y="665" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-83" value="feat/hoge" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=13;size=21;position=0.22;position2=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="518" width="62.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-84" value="feat/hoge" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=13;size=21;position=0.22;position2=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="518" width="62.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-85" value="作成したブランチを指す" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Harano Aji Gothic;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="456" width="145" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XLcok-ERuKk7p1zRL_Q2-86" value="元のブランチを指す" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Harano Aji Gothic;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="456" width="145" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
