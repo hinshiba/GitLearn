@@ -16,13 +16,10 @@
 ## 11 ローカル: 復元 (11local_restore.md)
 
 - `git restore`の図示
-- `git revert`の図示
 - `git reset`の図示
 
 ## 12 ブランチ (12branch.md)
 
-- `git merge`の図示
-- detached HEADの図示
 - switchのdetachedオプション
 - switchでのワーキングツリーとの競合
 

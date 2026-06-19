@@ -39,6 +39,8 @@ git restore --staged --worktree <ファイル名>
 VSCodeでは，ソース管理ビューで変更されたファイルにカーソルを合わせると現れる「変更を破棄」(矢印が回転したアイコン)から，コミット前の変更を破棄できる．
 また，マイナスアイコン`-`の「変更のステージング解除」を用いることで，ステージングエリアをコミットの状態に戻すことも可能である．
 
+![restore図示](draw/restore.webp)
+
 
 ### 特定のコミットを取り消す
 
@@ -50,6 +52,8 @@ git revert <コミット>
 ```
 
 過去のコミットを消去しないため，後の章で説明するリモートリポジトリにプッシュした後でも安全に使用できる．
+
+![revert図示](draw/revert.webp)
 
 ### 特定のコミットまで巻き戻す
 
@@ -71,6 +75,6 @@ git reset --mixed <コミット> # 同じ
 
 どのような操作においても，コミット履歴が変化するためすでにリモートにプッシュしている場合は非推奨である．
 
-> `git reset --hard c1`は`git reset --soft c1`の後に`git restore --staged --worktree .`を行うことと同等である．
+![reset図示](draw/reset.webp)
 
-### ここまでの図示
+> `git reset --hard c1`は`git reset --soft c1`の後に`git restore --staged --worktree .`を行うことと同等である．
