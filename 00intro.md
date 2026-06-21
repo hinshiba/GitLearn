@@ -167,6 +167,8 @@ git config --global user.email "github等に登録したメールアドレス"
 
 次に，以下を設定ファイル（`~/.gitconfig`）に追記しておくとよい．
 
+> チルダ`~`はホームディレクトリ(Winでは`C:\Users\あなたのユーザー名`)を示す
+
 ```conf
 [init]
 	defaultBranch = main

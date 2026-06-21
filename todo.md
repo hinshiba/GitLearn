@@ -16,7 +16,6 @@
 ## 11 ローカル: 復元 (11local_restore.md)
 
 - `git restore`の図示
-- `git reset`の図示
 
 ## 12 ブランチ (12branch.md)
 
